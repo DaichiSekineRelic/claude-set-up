@@ -1,9 +1,8 @@
 {
-  // ── MCPサーバーの設定 ──────────────────────────────
   "mcpServers": {
     "playwright": {
       "command": "npx",
-      "args": ["-y", "@playwright/mcp@latest"]
+      "args": ["-y", "@playwright/mcp@latest", "--output-dir", "./screenshots"]
     }
   }
 }

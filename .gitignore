@@ -44,3 +44,7 @@ coverage/
 # yarn.lock
 
 .claude/settings.local.json
+
+# Playwright
+screenshots/*
+!screenshots/.gitkeep
