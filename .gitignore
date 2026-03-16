@@ -48,3 +48,7 @@ coverage/
 # Playwright
 screenshots/*
 !screenshots/.gitkeep
+
+# MarkUp
+design/*
+!design/.gitkeep
