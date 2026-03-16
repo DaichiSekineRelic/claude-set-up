@@ -44,5 +44,3 @@ coverage/
 # yarn.lock
 
 .claude/settings.local.json
-
-settings.local.json
